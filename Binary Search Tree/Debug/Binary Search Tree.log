@@ -1,0 +1,4 @@
+﻿  bst-test-skeleton.cpp
+c:\users\shane\desktop\cs 2420\new projects\binary search tree\binary search tree\bst2-skeleton.h(190): warning C4715: 'Bst::find': not all control paths return a value
+  Binary Search Tree.vcxproj -> C:\Users\Shane\Desktop\CS 2420\New Projects\Binary Search Tree\Debug\Binary Search Tree.exe
+  Binary Search Tree.vcxproj -> C:\Users\Shane\Desktop\CS 2420\New Projects\Binary Search Tree\Debug\Binary Search Tree.pdb (Partial PDB)
